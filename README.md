@@ -1,6 +1,7 @@
 # Frontend Development
 
 + Guides
+    + [Book][Interactive Data Visualisation for the web](http://chimera.labs.oreilly.com/books/1230000000345/index.html)
     + [Hack Design](http://hackdesign.org/courses/)
     + [Designer School](http://designer-school.com/)
     + [TheExpressiveWeb](http://beta.theexpressiveweb.com/)
